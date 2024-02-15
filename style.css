@@ -9,3 +9,18 @@ i{
 
 
 
+
+
+header{
+background: linear-gradient(110deg,yellow 40%,pink 40%);
+}
+
+section{
+    background: lightgrey;
+}
+
+footer{
+background: black;
+color: blanchedalmond;
+
+}
