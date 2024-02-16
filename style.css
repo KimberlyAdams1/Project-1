@@ -22,5 +22,17 @@ section{
 footer{
 background: black;
 color: blanchedalmond;
-
 }
+div{
+    text-align: center;
+    padding: 40px;
+}
+
+h3{
+ border: 2px solid white; 
+ padding: 15px;
+ font-size: 45px; 
+ margin: auto; 
+ max-width: 400px;
+}
+
